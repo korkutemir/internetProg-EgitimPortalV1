@@ -1,0 +1,119 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h3>Course Management</h3>
+    <button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#AddCourseModal">Add Course</button>
+    <table class="table table-striped tabled-bordered table-primary" id="courseTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Category</th>
+                <th>Instructor</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Courses will be dynamically loaded here -->
+        </tbody>
+    </table>
+</div>
+
+<!-- Add Course Modal -->
+<div class="modal fade" id="AddCourseModal" tabindex="-1" aria-labelledby="AddCourseModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="AddCourseModalLabel">Add Course</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="AddCourseForm">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="AddCourseName" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="AddCourseName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="AddCourseDescription" class="form-label">Description</label>
+                        <textarea class="form-control" id="AddCourseDescription" rows="3" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="AddCourseCategory" class="form-label">Category</label>
+                        <select class="form-select" id="AddCourseCategory" required>
+                            <option value="">Select a category</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="AddCourseInstructor" class="form-label">Instructor</label>
+                        <select class="form-select" id="AddCourseInstructor" required>
+                            <option value="">Select an instructor</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="AddCourseOrderNo" class="form-label">Order No</label>
+                        <input type="number" class="form-control" id="AddCourseOrderNo">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Update Course Modal -->
+<div class="modal fade" id="UpdateCourseModal" tabindex="-1" aria-labelledby="UpdateCourseModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="UpdateCourseModalLabel">Update Course</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="UpdateCourseForm">
+                <div class="modal-body">
+                    <input type="hidden" id="UpdateCourseId">
+                    <div class="mb-3">
+                        <label for="UpdateCourseName" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="UpdateCourseName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="UpdateCourseDescription" class="form-label">Description</label>
+                        <textarea class="form-control" id="UpdateCourseDescription" rows="3" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="UpdateCourseCategory" class="form-label">Category</label>
+                        <select class="form-select" id="UpdateCourseCategory" required>
+                            <option value="">Select a category</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="UpdateCourseInstructor" class="form-label">Instructor</label>
+                        <select class="form-select" id="UpdateCourseInstructor" required>
+                            <option value="">Select an instructor</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="UpdateCourseOrderNo" class="form-label">Order No</label>
+                        <input type="number" class="form-control" id="UpdateCourseOrderNo">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    <script src="~/ajax/course/course.js"></script>
+}

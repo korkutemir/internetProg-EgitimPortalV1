@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BuildBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\panel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\shared\\partials\\_sidebarleftpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\shared\\partials\\_sidebarleftpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\user\\userupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\user\\userupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\models\\usermodelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\models\\usermodelupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\user\\usercreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\user\\usercreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|d:\\BuildBackEnd\\kioskbackend.core\\models\\identity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|solutionrelative:kioskbackend.core\\models\\identity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|d:\\BuildBackEnd\\kioskbackend.core\\models\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|solutionrelative:kioskbackend.core\\models\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|d:\\BuildBackEnd\\kioskbackend.core\\selectmodels\\countryselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508406EE-297A-44E9-B88F-95A24BBE34C0}|KioskBackEnd.Core\\KioskBackEnd.Core.csproj|solutionrelative:kioskbackend.core\\selectmodels\\countryselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|d:\\BuildBackEnd\\kioskbackend.web\\views\\member\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E659D0C-AE16-4448-8B48-7E125ECAA022}|KioskBackEnd.Web\\KioskBackEnd.Web.csproj|solutionrelative:kioskbackend.web\\views\\member\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Core\\Models\\Identity\\Users.cs",
+              "RelativeDocumentMoniker": "KioskBackEnd.Core\\Models\\Identity\\Users.cs",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Core\\Models\\Identity\\Users.cs",
+              "RelativeToolTip": "KioskBackEnd.Core\\Models\\Identity\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:50:37.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Panel\\Index.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\Panel\\Index.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Panel\\Index.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\Panel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:49:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SidebarLeftPartialView.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Shared\\Partials\\_SidebarLeftPartialView.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\Shared\\Partials\\_SidebarLeftPartialView.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Shared\\Partials\\_SidebarLeftPartialView.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\Shared\\Partials\\_SidebarLeftPartialView.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:48:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:48:31.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserModelUpdate.cs",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Models\\UserModelUpdate.cs",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Models\\UserModelUpdate.cs",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Models\\UserModelUpdate.cs",
+              "RelativeToolTip": "KioskBackEnd.Web\\Models\\UserModelUpdate.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADgvxcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:10:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KioskBackEnd.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:51:11.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:47:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserUpdate.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\UserUpdate.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\User\\UserUpdate.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\UserUpdate.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\User\\UserUpdate.cshtml",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAKMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:47:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCreate.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\UserCreate.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\User\\UserCreate.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\User\\UserCreate.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\User\\UserCreate.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAHMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:47:04.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Countries.cs",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Core\\Models\\Countries.cs",
+              "RelativeDocumentMoniker": "KioskBackEnd.Core\\Models\\Countries.cs",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Core\\Models\\Countries.cs",
+              "RelativeToolTip": "KioskBackEnd.Core\\Models\\Countries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:40:13.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountrySelect.cs",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Core\\SelectModels\\CountrySelect.cs",
+              "RelativeDocumentMoniker": "KioskBackEnd.Core\\SelectModels\\CountrySelect.cs",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Core\\SelectModels\\CountrySelect.cs",
+              "RelativeToolTip": "KioskBackEnd.Core\\SelectModels\\CountrySelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:39:57.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Member\\Login.cshtml",
+              "RelativeDocumentMoniker": "KioskBackEnd.Web\\Views\\Member\\Login.cshtml",
+              "ToolTip": "D:\\BuildBackEnd\\KioskBackEnd.Web\\Views\\Member\\Login.cshtml",
+              "RelativeToolTip": "KioskBackEnd.Web\\Views\\Member\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:27:24.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

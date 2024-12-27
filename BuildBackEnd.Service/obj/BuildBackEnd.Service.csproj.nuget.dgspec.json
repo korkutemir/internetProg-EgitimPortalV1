@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Service\\BuildBackEnd.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\BuildBackEnd.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\BuildBackEnd.Core.csproj",
+        "projectName": "BuildBackEnd.Core",
+        "projectPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\BuildBackEnd.Core.csproj",
+        "packagesPath": "C:\\Users\\korku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\korku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\BuildBackEnd.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\BuildBackEnd.Repository.csproj",
+        "projectName": "BuildBackEnd.Repository",
+        "projectPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\BuildBackEnd.Repository.csproj",
+        "packagesPath": "C:\\Users\\korku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\korku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\BuildBackEnd.Core.csproj": {
+                "projectPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Core\\BuildBackEnd.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Service\\BuildBackEnd.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Service\\BuildBackEnd.Service.csproj",
+        "projectName": "BuildBackEnd.Service",
+        "projectPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Service\\BuildBackEnd.Service.csproj",
+        "packagesPath": "C:\\Users\\korku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\korku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\BuildBackEnd.Repository.csproj": {
+                "projectPath": "C:\\Users\\korku\\OneDrive\\Desktop\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.Data\\BuildBackEnd.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

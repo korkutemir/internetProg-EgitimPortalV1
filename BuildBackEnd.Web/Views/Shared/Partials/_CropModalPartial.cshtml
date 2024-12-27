@@ -1,0 +1,51 @@
+﻿<div class="modal fade" id="cropModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" >
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+            <div class="modal-header d-block">
+                <div class="row">
+                    <div class="col-md-6 mb-lg-0 mb-3">
+                        <button class="btn btn-danger w-100" id="closeCrop">Close</button>
+                    </div>
+                    <div class="col-md-6">
+                        <button type="button" class="btn btn-primary w-100" id="cropButton">Apply Cropping</button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-body p-0" style="max-height:500px">
+                <div class="image-container" style=" max-height:500px">
+                    <img id="imagePreview" src="" alt="Preview" />
+                </div>
+            </div>
+            <div class="modal-footer d-block">
+
+                <div class="row">
+                    <div class="col">
+                        <button type="button" class="btn btn-success w-100" id="zoomInButton">
+                            <i class="fas fa-search-plus"></i>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-danger w-100" id="zoomOutButton">
+                            <i class="fas fa-search-minus"></i>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-warning w-100" id="rotateLeftButton">
+                            <i class="fas fa-undo"></i>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-success w-100" id="rotateRightButton">
+                            <i class="fas fa-redo"></i>
+                        </button>
+                    </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-dark w-100" id="resetCropButton">
+                            <i class="fas fa-refresh"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

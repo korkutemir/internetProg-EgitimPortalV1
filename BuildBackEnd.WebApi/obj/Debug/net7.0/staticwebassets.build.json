@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "6JdJWcRDOrJuzI/1QQH+AuYYOMNhHozEZedo4oiP+o8=",
+  "Source": "BuildBackEnd.WebApi",
+  "BasePath": "_content/BuildBackEnd.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BuildBackEnd.WebApi\\wwwroot",
+      "Source": "BuildBackEnd.WebApi",
+      "ContentRoot": "D:\\BuildBackEnd - Kopya - Kopya\\BuildBackEnd.WebApi\\wwwroot\\",
+      "BasePath": "_content/BuildBackEnd.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

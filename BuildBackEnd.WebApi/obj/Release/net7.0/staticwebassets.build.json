@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Dq1z8jwJzkVWJFp6MmR8LO1a6NkQBXH4Ai4HCunQLmM=",
+  "Source": "BuildBackEnd.WebApi",
+  "BasePath": "_content/BuildBackEnd.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BuildBackEnd.WebApi\\wwwroot",
+      "Source": "BuildBackEnd.WebApi",
+      "ContentRoot": "D:\\BuildBackEnd\\BuildBackEnd.WebApi\\wwwroot\\",
+      "BasePath": "_content/BuildBackEnd.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

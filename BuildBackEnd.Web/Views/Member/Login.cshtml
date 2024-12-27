@@ -1,0 +1,101 @@
+﻿
+@{
+    Layout = null;
+}
+@model SignInViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - Build Web</title>
+    @await Html.PartialAsync("~/Views/Shared/Partials/StylePartialView.cshtml")
+
+</head>
+<body class="loading-overlay-showing" data-loading-overlay>
+    @Html.AntiForgeryToken()
+
+    <div class="loading-overlay d-block">
+        <div class="bounce-loader">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+    <!-- start: page -->
+    <section class="body-sign">
+        <div class="center-sign">
+            <a href="/" class="logo float-left mb-4 d-block text-center">
+                <img src="/Panel/img/logo.png" style="max-width:300px" alt="Build" />
+            </a>
+
+            <div class="panel card-sign">
+                <div class="card-body border-primary pb-4">
+
+
+
+                    <form id="signInForm" asp-route-returnUrl="@Context.Request.Query["returnURl"]">
+
+                        @*start*@
+                        <div class="form-group mb-3">
+                            <label asp-for="Email">Email</label>
+                            <span asp-validation-for="Email"></span>
+                            <div class="input-group">
+                                <input type="email" asp-for="Email" class="form-control form-control-lg" />
+
+                                <span class="input-group-append">
+                                    <span class="input-group-text h-100 px-3  rounded-0 rounded-end">
+                                        <i class="fas fa-user"></i>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        @*end*@
+
+                        @*start*@
+                        <div class="form-group mb-3 border-top-0">
+
+                            <label asp-for="Password">Şifre</label>
+
+                            <div class="input-group">
+                                <input asp-for="Password" type="password" class="form-control form-control-lg" />
+                                <span asp-validation-for="Password"></span>
+
+                                <span class="input-group-append">
+                                    <span class="input-group-text h-100 px-3 rounded-0 rounded-end toggle-password" toggle="#Password">
+                                        <i class="fa-solid fa-eye"></i>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        @*end*@
+
+                        @*start*@
+                        <div class="row">
+                            <div class="col-sm-8 d-xl-flex d-lg-flex d-md-flex d-block align-items-center">
+                                <div class="checkbox-custom checkbox-default">
+                                    <input asp-for="RememberMe" type="checkbox" />
+                                    <label asp-for="RememberMe" class="mt-1">Remember me</label>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <button type="submit" class="btn bg-primary text-white mt-2 w-100">Login</button>
+                            </div>
+                        </div>
+                        @*end*@
+
+                    </form>
+                </div>
+            </div>
+
+            <p class="text-center text-muted mt-3 mb-3">&copy; Copyright @DateTime.Now.Year All Rights Reserved.</p>
+        </div>
+    </section>
+    <!-- end: page -->
+
+
+    @await Html.PartialAsync("~/Views/Shared/Partials/ScriptPartialView.cshtml")
+    <script type="module" src="/Ajax/login.js" asp-append-version="true"></script>
+</body>
+</html>

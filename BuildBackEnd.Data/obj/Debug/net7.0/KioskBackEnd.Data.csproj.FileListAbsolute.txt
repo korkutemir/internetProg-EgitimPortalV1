@@ -1,0 +1,17 @@
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Data.deps.json
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Data.runtimeconfig.json
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Data.dll
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Data.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.csproj.AssemblyReference.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.AssemblyInfoInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.AssemblyInfo.cs
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.csproj.CopyComplete
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.dll
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Data.dll
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Data.genruntimeconfig.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Data.dll

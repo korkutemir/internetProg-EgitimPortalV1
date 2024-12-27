@@ -1,0 +1,77 @@
+﻿@using System.Security.Claims;
+@using BuildBackEnd.Core.Services
+@inject IMemberService MemberService
+@{
+    var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+    var role = MemberService.GetRoleIdUser(userId);
+    var user = await MemberService.FindByUserIdAsync(userId);
+    var roleName = role switch
+    {
+        //1 => "Super Admin",
+        1 => "Admin",
+        2 => "Category Admin",
+    } ?? "No Authorization Found!";
+
+}
+
+@{
+    ViewData["title"] = "Home";
+    ViewBag.AIndex = "nav-active";
+
+}
+
+@if (role != 2)
+{
+    <div class="row">
+
+        <a class="text-muted text-uppercase mb-3 mt-0 ps-0 col-lg-4 d-block" href="/Category">
+            <section class="card card-featured-left" style="border-color:aquamarine">
+                <div class="card-body">
+                    <div class="widget-summary">
+                        <div class="widget-summary-col widget-summary-col-icon">
+                            <div class="summary-icon" style="background-color:aquamarine">
+                                <i class="fa-solid fa-earth-americas"></i>
+                            </div>
+                        </div>
+                        <div class="widget-summary-col">
+                            <div class="summary">
+                                <h4 class="title text-capitalize">Categories</h4>
+                                <div class="info">
+                                    <span style="color: aquamarine">@ViewBag.CategoryCount</span>
+                                </div>
+                            </div>
+                            <div class="summary-footer">
+                                (go to)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </a>
+
+        <a class="text-muted text-uppercase mb-3 mt-0 ps-0 col-lg-4 d-block" href="/Language">
+            <section class="card card-featured-left" style="border-color: orchid">
+                <div class="card-body">
+                    <div class="widget-summary">
+                        <div class="widget-summary-col widget-summary-col-icon">
+                            <div class="summary-icon" style="background-color: orchid">
+                                <i class="fa-solid fa-language"></i>
+                            </div>
+                        </div>
+                        <div class="widget-summary-col">
+                            <div class="summary">
+                                <h4 class="title text-capitalize">Languages</h4>
+                                <div class="info">
+                                    <span style="color: orchid">@ViewBag.LanguageCount</span>
+                                </div>
+                            </div>
+                            <div class="summary-footer">
+                                (go to)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </a>
+    </div>
+}

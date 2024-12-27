@@ -1,0 +1,85 @@
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.AssemblyReference.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfoInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfo.cs
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.deps.json
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.runtimeconfig.json
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBac.F5F45C2B.Up2Date
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Repository.dll
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.genruntimeconfig.cache
+D:\BuildBackEnd\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.deps.json
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.runtimeconfig.json
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.AssemblyReference.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfoInputs.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfo.cs
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBac.F5F45C2B.Up2Date
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.genruntimeconfig.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.deps.json
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.runtimeconfig.json
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.AssemblyReference.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfoInputs.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfo.cs
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.pdb
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.genruntimeconfig.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Repository.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBac.3254A341.Up2Date
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.deps.json
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.runtimeconfig.json
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.pdb
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBac.3254A341.Up2Date
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Repository.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.pdb
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.genruntimeconfig.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Repository.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.deps.json
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.runtimeconfig.json
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Repository.pdb
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.AssemblyReference.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfoInputs.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.AssemblyInfo.cs
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.csproj.CoreCompileInputs.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBac.3254A341.Up2Date
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\refint\BuildBackEnd.Repository.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.pdb
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\BuildBackEnd.Repository.genruntimeconfig.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Data\obj\Debug\net7.0\ref\BuildBackEnd.Repository.dll

@@ -1,0 +1,49 @@
+﻿@model SignInViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_LayoutHome";
+}
+
+<div class="container">
+
+    <form id="signInForm" class="card card-modern bg-light mt-5 p-5" asp-route-returnUrl="@Context.Request.Query["returnURl"]">
+
+        @*start*@
+        <div class="form-group mb-3">
+            <label asp-for="Email">Email</label>
+            <span asp-validation-for="Email"></span>
+            <div class="input-group">
+                <input type="email" asp-for="Email" class="form-control form-control-lg" />
+            </div>
+        </div>
+        @*end*@
+
+        @*start*@
+        <div class="form-group mb-3 border-top-0">
+
+            <label asp-for="Password">Şifre</label>
+
+            <div class="input-group">
+                <input asp-for="Password" type="password" class="form-control form-control-lg" />
+                <span asp-validation-for="Password"></span>
+            </div>
+        </div>
+        @*end*@
+
+        @*start*@
+        <div class="row">
+            <div class="col-sm-8 d-xl-flex d-lg-flex d-md-flex d-block align-items-center">
+                <a href="/User/UserCreate" class="btn btn-warning">Kayıt Ol</a>
+            </div>
+            <div class="col-sm-4">
+                <button type="submit" class="btn bg-primary text-white mt-2 w-100">Giriş yap</button>
+            </div>
+        </div>
+        @*end*@
+
+    </form>
+</div>
+
+@section Scripts {
+    <script type="module" src="/Ajax/login-home.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,303 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KioskBackEnd.Web
+build_property.RootNamespace = KioskBackEnd.Web
+build_property.ProjectDir = D:\KioskBackEnd\KioskBackEnd.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\KioskBackEnd\KioskBackEnd.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Annotation/AnnotationCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3RhdGlvblxBbm5vdGF0aW9uQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Annotation/AnnotationMedias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3RhdGlvblxBbm5vdGF0aW9uTWVkaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Annotation/AnnotationUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3RhdGlvblxBbm5vdGF0aW9uVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZUhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideModelCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZU1vZGVsQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideMultipleCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZU11bHRpcGxlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideSoundCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZVNvdW5kQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZVVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/CaseSlide/CaseSlideVideoCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVNsaWRlXENhc2VTbGlkZVZpZGVvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Case/CaseCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxDYXNlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Case/CaseUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxDYXNlVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Case/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Category/CategoryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Category/CategoryUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/CharacteristicCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcQ2hhcmFjdGVyaXN0aWNDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/CharacteristicDocumentCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcQ2hhcmFjdGVyaXN0aWNEb2N1bWVudENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/CharacteristicDocumentsHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcQ2hhcmFjdGVyaXN0aWNEb2N1bWVudHNIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/CharacteristicDocumentUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcQ2hhcmFjdGVyaXN0aWNEb2N1bWVudFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/CharacteristicUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcQ2hhcmFjdGVyaXN0aWNVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Characteristic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyaXN0aWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Country/CountryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDb3VudHJ5Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Country/CountryUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDb3VudHJ5VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Doctor/DoctorCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERvY3RvckNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Doctor/DoctorUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERvY3RvclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Event/EventCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRXZlbnRDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Event/EventUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcRXZlbnRVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Group/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Group/ProductGroupCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcUHJvZHVjdEdyb3VwQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Group/ProductGroupUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBcUHJvZHVjdEdyb3VwVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Kiosk/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lvc2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Kiosk/KioskCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lvc2tcS2lvc2tDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Kiosk/KioskMultipleCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lvc2tcS2lvc2tNdWx0aXBsZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Kiosk/KioskUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lvc2tcS2lvc2tVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Language/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Language/LanguageCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcTGFuZ3VhZ2VDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Language/LanguageUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcTGFuZ3VhZ2VVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Mail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Member/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Panel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/ProductDocument/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERvY3VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/ProductDocument/ProductCharacteristicCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERvY3VtZW50XFByb2R1Y3RDaGFyYWN0ZXJpc3RpY0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/ProductDocument/ProductCharacteristicUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERvY3VtZW50XFByb2R1Y3RDaGFyYWN0ZXJpc3RpY1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Product/ProductCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Product/ProductUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Section/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Section/SectionCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvblxTZWN0aW9uQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Section/SectionUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvblxTZWN0aW9uVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Partials/ScriptPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFNjcmlwdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Partials/StylePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXFN0eWxlUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Partials/_CropModalPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9Dcm9wTW9kYWxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Partials/_HeaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/Partials/_SidebarLeftPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9TaWRlYmFyTGVmdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Speaker/SpeakerCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlclxTcGVha2VyQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Speaker/SpeakerHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlclxTcGVha2VySG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Speaker/SpeakerUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlYWtlclxTcGVha2VyVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/User/UserCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/User/UserUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Workshop/WorkshopCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BcV29ya3Nob3BDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Workshop/WorkshopHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BcV29ya3Nob3BIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/Workshop/WorkshopUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BcV29ya3Nob3BVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/KioskBackEnd/KioskBackEnd.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,60 @@
+D:\BuildBackEnd\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.deps.json
+D:\BuildBackEnd\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.AssemblyReference.cache
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfoInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfo.cs
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\refint\BuildBackEnd.Core.dll
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd\BuildBackEnd.Core\obj\Debug\net7.0\ref\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.deps.json
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.AssemblyReference.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfoInputs.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfo.cs
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\refint\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\ref\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.deps.json
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.AssemblyReference.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfoInputs.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfo.cs
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.CoreCompileInputs.cache
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\refint\BuildBackEnd.Core.dll
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.pdb
+D:\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\ref\BuildBackEnd.Core.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\refint\BuildBackEnd.Core.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.deps.json
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\DELL\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\ref\BuildBackEnd.Core.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.deps.json
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\bin\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.AssemblyReference.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfoInputs.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.AssemblyInfo.cs
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.csproj.CoreCompileInputs.cache
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\refint\BuildBackEnd.Core.dll
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\BuildBackEnd.Core.pdb
+C:\Users\korku\OneDrive\Desktop\BuildBackEnd - Kopya - Kopya\BuildBackEnd - Kopya - Kopya\BuildBackEnd.Core\obj\Debug\net7.0\ref\BuildBackEnd.Core.dll

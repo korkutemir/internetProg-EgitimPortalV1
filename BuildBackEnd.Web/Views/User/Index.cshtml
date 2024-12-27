@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    ViewBag.AUser = "nav-active";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="/Ajax/_dataTable/datatables.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/Ajax/_dataTable/table.css" rel="stylesheet" />
+}
+@section Scripts {
+
+    <script type="text/javascript" src="/Ajax/_dataTable/datatables.min.js"></script>
+    <script type="module" src="/Ajax/User/table.js" asp-append-version="true"></script>
+}
+
+@if (TempData["UserMessage"] != null)
+{
+    <div class="alert alert-success" id="imessage">@TempData["UserMessage"]</div>
+}
+
+<section>
+    <div class="card card-modern mb-2">
+        <div class="card-body">
+
+            <a href="/UserCreate" class="btn btn-success mb-2 mb-lg-0 mb-md-0">
+                User Add
+                <i class="fa-sharp fa-solid fa-plus ms-1 mx-1"></i>
+            </a>
+
+            <button onclick="reloadDataTable()" class="btn btn-dark mb-2 mb-lg-0 mb-md-0">
+                Table Refresh
+                <i class="fa-solid fa-arrows-rotate ms-1"></i>
+            </button>
+
+        </div>
+    </div>
+</section>
+
+
+
+<section>
+    <div class="card card-modern mb-2">
+        <div class="card-body">
+            @*start*@
+            <div class="table-responsive">
+                <table id="example" class="display table  table-striped  bordered" style="width:100%">
+                    <thead class="bg-dark text-white table-head-position-sticky">
+                        <tr>
+                            <th style="max-width: 7px;width: 7px;"></th>
+                            <th>Name And Surname</th>
+                            <th>Username</th>
+                            <th style="width: 250px;"></th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            @*end*@
+        </div>
+    </div>
+</section>

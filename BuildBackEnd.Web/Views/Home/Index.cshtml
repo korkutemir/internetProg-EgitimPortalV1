@@ -1,0 +1,67 @@
+﻿@model List<Courses>
+@using System.Security.Claims;
+@using BuildBackEnd.Core.Services
+@inject IMemberService MemberService
+@{
+    // Kullanıcının kimlik bilgisini al
+    var nameIdentifier = User.FindFirstValue(ClaimTypes.NameIdentifier);
+    int userId;
+    if (!int.TryParse(nameIdentifier, out userId))
+    {
+        // Handle the case where the userId is not a valid integer
+        userId = -1; // or any default value or error handling logic
+    }
+    ViewData["Title"] = "Index";
+    Layout = "_LayoutHome";
+}
+
+
+<div class="container">
+    <h1 class="my-4">Kurslar</h1>
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Kurs Adı</th>
+                <th>Açıklama</th>
+                <th>Eğitmen</th>
+                <th>Kategori</th>
+                <th>İşlem</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>@item.Instructor.Name</td>
+                    <td>@item.Category.Name</td>
+                    <td>
+                        @if (!item.UserCourseBridge.Where(i => i.UserId == userId && i.CourseId == item.Id).Any())
+                        {
+                            @if (string.IsNullOrEmpty(nameIdentifier))
+                            {
+                                <a class="btn btn-primary" href="/Home/Login">Kayıt Ol</a>
+                            }
+                            else
+                            {
+                                <button type="submit" class="btn btn-primary course-register" data-id="@item.Id">Kayıt Ol</button>
+                            }
+                        }
+                        else
+                        {
+                            <span class="badge bg-success">Kayıtlısınız</span>
+                        }
+
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@section Scripts {
+    <script src="~/ajax/course/course-register.js"></script>
+}

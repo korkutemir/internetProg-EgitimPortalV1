@@ -1,0 +1,58 @@
+﻿@using System.Security.Claims;
+@using BuildBackEnd.Core.Services
+@inject IMemberService MemberService
+@{
+    var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
+    var role = MemberService.GetRoleIdUser(userId);
+    var user = await MemberService.FindByUserIdAsync(userId);
+    var roleName = role switch
+    {
+        //1 => "Super Admin",
+        1 => "Admin",
+        2 => "Category Admin",
+    } ?? "No Authorization Found!";
+
+}
+
+<div class="nano">
+    <div class="nano-content">
+        <nav id="menu" class="nav-main" role="navigation">
+            <ul class="nav nav-main pt-2">
+                <li class="nav-item @ViewBag.AIndex">
+                    <a class="nav-link" href="/Panel">
+                        <i class="fa-regular fa-house" aria-hidden="true"></i>
+                        <span>Home</span>
+                    </a>
+
+                </li>
+
+                <li class="nav-item @ViewBag.ACategory">
+                    <a class="nav-link " href="/Category">
+                        <i class="fa-solid fa-earth-americas" aria-hidden="true"></i>
+                        <span>Kategoriler</span>
+                    </a>
+                </li>
+                <li class="nav-item @ViewBag.ACourse">
+                    <a class="nav-link " href="/Course">
+                        <i class="fa-solid fa-earth-americas" aria-hidden="true"></i>
+                        <span>Kurslar</span>
+                    </a>
+                </li>
+                <li class="nav-item @ViewBag.AInstructor">
+                    <a class="nav-link " href="/Instructor">
+                        <i class="fa-solid fa-earth-americas" aria-hidden="true"></i>
+                        <span>Eğitmenler</span>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link " href="/Panel/RealTimeRegistrations">
+                        <i class="fa-solid fa-earth-americas" aria-hidden="true"></i>
+                        <span>Canlı Kayıt izle</span>
+                    </a>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+</div>

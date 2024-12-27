@@ -1,0 +1,26 @@
+.form-input-table-check{height:18px;width:18px;border-radius:0!important}
+@media (max-width:1500px){
+.card-table{overflow-x:scroll}
+}
+.table-icon-size{font-size:18px}
+#example{display:table;margin:0 auto;min-width:1100px}
+@media (max-width:768px){
+#examle{white-space:nowrap}
+}
+.bordered th:first-child{border-radius:6px 0 0 0;-moz-border-radius:6px 0 0 0;-webkit-border-radius:6px 0 0 0}
+.bordered th:last-child{border-radius:0 6px 0 0;-moz-border-radius:0 6px 0 0;-webkit-border-radius:0 6px 0 0}
+.bordered{border-radius:6px 6px 6px 6px;-moz-border-radius:6px 6px 6px 6px;-webkit-border-radius:6px 6px 6px 6px}
+.dataTables_empty{text-align:center!important}
+#example thead th{padding:12px 0 12px 10px}
+#example thead th{font-size:14px;font-weight:600}
+#example .dropdown-toggle::after{display:none}
+#example tbody tr td:first-child{padding-left:25px!important}
+#example tbody tr td:last-child{text-align:right}
+#example tbody tr td:last-child a,#example tbody tr td:last-child button{margin-top:5px}
+#example tbody tr{height:45px;justify-content:center}
+#example tbody td{vertical-align:middle}
+#example tbody{background-color:#f3eeee}
+.down-table thead tr{height:5px!important}
+.down-table{font-size:12px!important}
+.dt-buttons{margin-bottom:10px}
+

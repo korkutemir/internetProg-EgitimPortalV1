@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/Panel/img/favicon.ico">
+    <title>@ViewData["Title"] - Build Web</title>
+
+    @await Html.PartialAsync("~/Views/Shared/Partials/StylePartialView.cshtml")
+    @await RenderSectionAsync("Styles", false)
+</head>
+<body class="loading-overlay-showing" data-loading-overlay>
+    @Html.AntiForgeryToken()
+    <div class="loading-overlay d-block">
+        <div class="bounce-loader">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+
+    <section class="body">
+        <!-- start: header -->
+        <header class="header" id="header">
+            @await Html.PartialAsync("~/Views/Shared/Partials/_HeaderPartialView.cshtml")
+        </header>
+        <!-- end: header -->
+
+        <div class="inner-wrapper">
+            <!-- start: sidebar -->
+            <aside id="sidebar-left" class="sidebar-left">
+                @await Html.PartialAsync("~/Views/Shared/Partials/_SidebarLeftPartialView.cshtml")
+            </aside>
+            <!-- end: sidebar -->
+
+            <section role="main" class="content-body">
+                <header class="page-header"></header>
+                <!-- start: page -->
+                @RenderBody()
+                <!-- end: page -->
+            </section>
+        </div>
+    </section>
+    @await RenderSectionAsync("Modals", false)
+
+
+
+    @await Html.PartialAsync("~/Views/Shared/Partials/ScriptPartialView.cshtml")
+    @await RenderSectionAsync("Scripts", false)
+
+    <script type="text/javascript" src="/Panel/js/theme.js"></script>
+    <script type="text/javascript" src="/Panel/js/custom.js"></script>
+    <script type="text/javascript" src="/Panel/js/theme.init.js"></script>
+</body>
+</html>

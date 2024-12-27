@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-5">
+    <h3>Instructor Management</h3>
+    <button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#AddInstructorModal">Add Instructor</button>
+    <table class="table table-striped tabled-bordered table-primary" id="instructorTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Instructors will be dynamically loaded here -->
+        </tbody>
+    </table>
+</div>
+
+<!-- Add Instructor Modal -->
+<div class="modal fade" id="AddInstructorModal" tabindex="-1" aria-labelledby="AddInstructorModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="AddInstructorModalLabel">Add Instructor</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="AddInstructorForm">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="AddInstructorName" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="AddInstructorName" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Update Instructor Modal -->
+<div class="modal fade" id="UpdateInstructorModal" tabindex="-1" aria-labelledby="UpdateInstructorModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="UpdateInstructorModalLabel">Update Instructor</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="UpdateInstructorForm">
+                <div class="modal-body">
+                    <input type="hidden" id="UpdateInstructorId">
+                    <div class="mb-3">
+                        <label for="UpdateInstructorName" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="UpdateInstructorName" required>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/ajax/instructor/instructor.js"></script>
+}

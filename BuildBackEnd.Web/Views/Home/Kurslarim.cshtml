@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Courses>
+
+@{
+    ViewData["Title"] = "Kurslarim";
+    Layout = "_LayoutHome";
+
+}
+
+<div class="container">
+    <h2 class="my-4">@ViewData["Title"]</h2>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Order No</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in Model)
+            {
+                <tr>
+                    <td>@course.Name</td>
+                    <td>@course.Description</td>
+                    <td>@course.OrderNo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+   
+</div>
